@@ -1,4 +1,4 @@
-// Copyright (c) 2024 IBM Corporation and others.
+// Copyright (c) 2024, 2025 IBM Corporation and others.
 // Licensed under Creative Commons Attribution-NoDerivatives
 // 4.0 International (CC BY-ND 4.0)
 //   https://creativecommons.org/licenses/by-nd/4.0/
@@ -143,11 +143,11 @@ unzip inventory.zip -d inventory
 ```
 
 After getting the ***inventory*** project, switch the workspace to the ***/home/project/guide-liberty-deep-dive-gradle/start/inventory*** directory.
-> - Select **File** > **Close Workspace** from the menu of the IDE.
+> - Select ***File*** > ***Close Workspace*** from the menu of the IDE.
 >   - Click the OK button to confirm to close.
 >   - Wait for the IDE to refresh.
-> - Select **File** > **Open...** from the menu of the IDE.
->   - In the **Open** window, select the ***home*** directory from the top dropdown list, and then select the ***/home/project/guide-liberty-deep-dive-gradle/start/inventory*** directory and click the **Open** button.
+> - Select ***File*** > ***Open...*** from the menu of the IDE.
+>   - In the ***Open*** window, select the ***home*** directory from the top dropdown list, and then select the ***/home/project/guide-liberty-deep-dive-gradle/start/inventory*** directory and click the ***Open*** button.
 >   - Wait for the IDE to refresh.
 endif::[]
 
