@@ -147,7 +147,7 @@ After getting the ***inventory*** project, switch the workspace to the ***/home/
 >   - Click the OK button to confirm to close.
 >   - Wait for the IDE to refresh.
 > - Select ***File*** > ***Open...*** from the menu of the IDE.
->   - In the ***Open*** window, select the ***home*** directory from the top dropdown list, and then select the ***/home/project/guide-liberty-deep-dive-gradle/start/inventory*** directory and click the **Open** button.
+>   - In the ***Open*** window, select the ***home*** directory from the top dropdown list, and then select the ***/home/project/guide-liberty-deep-dive-gradle/start/inventory*** directory and click the ***Open*** button.
 >   - Wait for the IDE to refresh.
 endif::[]
 
