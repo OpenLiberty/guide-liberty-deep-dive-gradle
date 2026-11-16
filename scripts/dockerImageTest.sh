@@ -27,7 +27,7 @@ cat module-securing/build.gradle
 echo "=== module-openapi/build.gradle ==="
 cat module-openapi/build.gradle
 
-sed -i "s;FROM icr.io/appcafe/open-liberty:full-java11-openj9-ubi;FROM openliberty/daily:latest;g" module-kubernetes/Containerfile
+sed -i "s;FROM icr.io/appcafe/open-liberty:full-java25-openj9-ubi;FROM openliberty/daily:latest;g" module-kubernetes/Containerfile
 cat module-kubernetes/Containerfile
 
 podman pull "openliberty/daily:latest"
